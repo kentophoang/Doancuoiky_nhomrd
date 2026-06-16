@@ -1,3 +1,14 @@
+<div align="center">
+
+# 🛒 E-Commerce Platform Project
+
+*A comprehensive, scalable online store solution demonstrating robust software engineering principles.*
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+
+</div>
 # 🧠 E-commerce Website Project
 This project is a comprehensive e-commerce website built using PHP, MySQL, and various other technologies. It provides a robust platform for managing products, orders, customers, and administrators. The website features a user-friendly interface, secure payment processing, and efficient order management.
 
@@ -78,8 +89,7 @@ To contribute to the project, please fork the repository and submit a pull reque
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📬 Contact
-For any questions, issues, or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions, issues, or feedback, please contact us at sincos2310@gmail.com.
 
 ## 💖 Thanks Message
 We appreciate your interest in our e-commerce website project. This project is designed to provide a comprehensive and scalable solution for online stores. We hope you find it useful and enjoyable to work with.
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
